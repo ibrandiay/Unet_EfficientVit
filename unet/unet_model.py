@@ -1,5 +1,4 @@
 """
-All RIGHTS RESERVED MAF AGROBOTICS, INC.
 
 Full assembly of the parts to form the complete network
 
