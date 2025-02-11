@@ -1,0 +1,7 @@
+assets
+.idea
+build
+./*.pt
+__pycache__
+*.pyc
+*.pyo
